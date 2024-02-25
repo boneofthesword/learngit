@@ -1,2 +1,2 @@
-Git is a very good thing
-git is free software but i dont konw how to use
+Git is a very bad thing
+git is free software but i  konw how to use
